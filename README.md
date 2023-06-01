@@ -10,4 +10,6 @@ You have to specify your path to the USD on the disk as well as the output asset
 
 Since I found no way to change the skeleton of an AnimSequence object in python (as of UE 5.1), I just duplicate an existing animation and fill it with data. The distributed animation in EXAMPLE_ANIMATION_REFERENCE defaults to 24fps, however. You may also use the 60fps .uasset in this repo. 
 
+Blueprint block for copy-paste: https://blueprintue.com/blueprint/xdaswvsj/
+
 Result: 50 lines of code instead of 50k. Hope this helps someone :)
